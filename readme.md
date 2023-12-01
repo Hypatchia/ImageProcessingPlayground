@@ -15,6 +15,17 @@ In today's data-driven business landscape, the significance of visual data canno
 The success of modern businesses relies on their ability to extract valuable insights from diverse data sources. 
 
 Visual data, in the form of images, is a rich and often underutilized asset. 
+The first step to Building High-Performance Computer Vision Models is Image Processing.
+
+* **Image processing:** refers to a set of techniques and methods used to manipulate and analyze images to extract useful information or enhance specific characteristics.
+
+Before feeding images into a computer vision model, it's essential to process them.
+This involves tasks such as resizing, normalization, augmentation, Feature Extraction, and more.
+
+* **Resizing**: Images may need to be resized to a standard dimension that the model expects.
+* **Normalization**: Ensuring that pixel values are within a specific range, often between 0 and 1, to facilitate model training.
+* **Augmentation**: Introducing variations in the training dataset, like rotations or flips, to enhance the model's generalization.
+* **Feature Extraction**  This involves capturing distinctive patterns, shapes, or structures within the images that are essential for the computer vision model's understanding.
 
 Image processing plays a pivotal role in:
 
@@ -56,10 +67,10 @@ To set up the environment for these notebooks, you can follow these steps:
 1. Clone this repository to your local machine:
 
 ~~~
-git clone https://github.com/Hypatchia/ImageProcessingPlayground.git
+git clone https://github.com/Hypatchia/ImageProcessingPlayground
 ~~~
 
-2. Open the html files in a browser
+2. Open the html files in a browser or Set and Run the Notebooks yourself.
 
 
 ## Contact
